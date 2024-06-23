@@ -1,0 +1,32 @@
+body{background-color: darkseagreen;
+font-family:monospace,"Lucida Console", "Courier New", monospace}
+h1{border: 6px solid rgb(0, 0, 147);
+text-align: center;
+margin-left:340px;
+margin-right: 350px;
+margin-bottom:20px;
+padding-left: auto;
+height: 40px;
+width:1000px;
+color:aliceblue;}
+h2{text-align: auto;}
+.main{border: 2px solid bisque;
+      margin-right:1600px;
+      background-color: rgba(82, 108, 88, 0.956);
+      outline: solid green 4px;
+      margin-bottom:30px;
+      height: 60px;
+      width:200px;
+    padding-left: 10px;}
+      
+.sub{border: 2px solid bisque;
+    margin-right:1600px;
+    background-color: rgba(54, 141, 56, 0.57);
+    padding-left: 10px;
+    color: aliceblue;
+    padding:auto;
+    margin-bottom: 20px;
+    height:90px;
+    width:200px;
+    }
+h3{text-align: left;}
